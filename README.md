@@ -4,7 +4,9 @@
 
 [https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA](https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA)
 
-| File            | Time                |
+All files were downloaded from [https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233](https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233) on August 24, 2023
+
+| File            | Author Upload Time  |
 | --------------- | ------------------- |
 | 李跳跳2.2正式版.apk   | 2023-05-17 16:20:42 |
 | 李跳跳_派大星2.01.apk | 2023-04-09 19:20:06 |
