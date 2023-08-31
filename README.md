@@ -6,8 +6,10 @@
 
 All files were downloaded from [https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233](https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233) on August 24, 2023
 
-| File                                                                                                                                                    | Author Upload Time  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [李跳跳2.2正式版.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)             | 2023-05-17 16:20:42 |
-| [李跳跳_派大星2.01.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B3_%E6%B4%BE%E5%A4%A7%E6%98%9F2.01.apk)         | 2023-04-09 19:20:06 |
-| [李跳跳_真实好友4.0.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B3_%E7%9C%9F%E5%AE%9E%E5%A5%BD%E5%8F%8B4.0.apk) | 2023-04-09 19:21:26 |
+所有文件均于 2023 年 8 月 24 日从 [https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233](https://pan.baidu.com/s/1IHPQp1Rgn9K67N-v4ZcNxw?pwd=1233) 上下载
+
+| File \| 文件                                                                                                                                              | Author Upload Time \| 作者上传时间 | Feature \| 功能                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------- |
+| [李跳跳2.2正式版.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)             | 2023-05-17 16:20:42          | 李跳跳                                                                       |
+| [李跳跳_派大星2.01.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B3_%E6%B4%BE%E5%A4%A7%E6%98%9F2.01.apk)         | 2023-04-09 19:20:06          | 似乎是李跳跳的一个旧版                                                               |
+| [李跳跳_真实好友4.0.apk](https://github.com/eddlez/litiaotiao_package_backup/raw/main/%E6%9D%8E%E8%B7%B3%E8%B7%B3_%E7%9C%9F%E5%AE%9E%E5%A5%BD%E5%8F%8B4.0.apk) | 2023-04-09 19:21:26          | 检测微信好友是否把我们删除了，[详见此链接](https://mp.weixin.qq.com/s/v5ejXKQbDTI6cbmSSYMyaw) |
